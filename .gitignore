@@ -1,0 +1,84 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+*.ser
+*.class
+*.dr
+*.dt
+*.ctxt
+
+# Logs
+*.log
+log/
+logs/
+
+# Compiled class files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+### IDEs and editors ###
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+target/
+atlassian-ide-plugin.xml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+### Operating Systems ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+### Gradle ###
+.gradle/
+build/
+
+### Miscellaneous ###
+# Maven
+target/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Keys
+*.pem
+*.pub
+*.key
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
