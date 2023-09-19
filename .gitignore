@@ -82,3 +82,7 @@ gradle/wrapper/gradle-wrapper.jar
 *.bak
 *.swp
 *.swo
+
+# Track gradle wrapper jar 
+# But not this one!
+!gradle/wrapper/gradle-wrapper.jar
